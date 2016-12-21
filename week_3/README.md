@@ -15,10 +15,10 @@ Previously we were introduced to variable declarations and initializations. We a
 
 Try the project for variables and conditionals. Do as many as you can. Afterward compare and discuss solutions with your partner using the provided solutions.
 
-### [Variables SOLUTION](week_3/variables.js)
+### [Variables SOLUTION](variables.js)
 
 Similarly, try and discuss the problems and solutions for the array project.
 
-### [Array SOLUTION](week_3/array.js)
+### [Array SOLUTION](array.js)
 
 ### [Loops SOLUTION](https://github.com/galvanizejs/solutions/blob/master/week2-project2.js)
