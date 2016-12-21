@@ -11,8 +11,14 @@ Previously we were introduced to variable declarations and initializations. We a
 | Utilize loops and iterators to repeatedly apply a procedure. |
 
 
-## Project 1
+## Projects
 
-Try the project 1 for variables and conditionals. Do as many as you can. Afterward compare and discuss solutions with your partner using the provided solutions.
+Try the project for variables and conditionals. Do as many as you can. Afterward compare and discuss solutions with your partner using the provided solutions.
 
-### [SOLUTION](week_3/variables.js)
+### [Variables SOLUTION](week_3/variables.js)
+
+Similarly, try and discuss the problems and solutions for the array project.
+
+### [Array SOLUTION](week_3/array.js)
+
+### [Loops SOLUTION](https://github.com/galvanizejs/solutions/blob/master/week2-project2.js)
